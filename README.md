@@ -9,6 +9,9 @@ PowerLimit 是一个轻量级工具，旨在帮助用户自定义笔记本的充
 
 PowerLimit is a lightweight tool designed to help users customize their laptop charging threshold, getting rid of the Gigabyte Control Center's control over charging settings. With this tool, users can manually set the charging limit to protect battery health.
 
+**特别感谢**：[s-h-a-d-o-w 的 alfc 项目](https://github.com/s-h-a-d-o-w/alfc) 提供的支持与帮助。  
+**Special Thanks**: [The alfc project by s-h-a-d-o-w](https://github.com/s-h-a-d-o-w/alfc) for their support and assistance.
+
 ## 系统要求 (System Requirements)
 - **操作系统 (OS)**: Windows
 
@@ -81,3 +84,4 @@ This way, PowerLimit will automatically run every time your computer starts, ens
 
 **Ensure that your OS and drivers support the settings change.**  
 Modifying the Registry carries some risk, so it's recommended to back up the Registry before making changes.
+
