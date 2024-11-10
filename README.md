@@ -75,9 +75,9 @@ After clicking "Save," your settings will be applied immediately and will remain
 This way, PowerLimit will automatically run every time your computer starts, ensuring that the charging threshold remains active without taking up screen space.
 
 ## 设置失效说明 (Settings Expiration Note)
-- PowerLimit 设置将在计算机断电或重启后失效，但通过设置自启任务，您可以确保每次开机时 PowerLimit 会重新应用设置。
+- PowerLimit 设置将在计算机断电并且重启后失效，但通过设置自启任务，您可以确保每次开机时 PowerLimit 会重新应用设置。
 
-**PowerLimit settings will expire** only when the computer is powered off or rebooted. However, by setting up the auto-start task, you can ensure that the settings are reapplied each time the computer boots.
+**PowerLimit settings will expire** only when the computer is powered off and rebooted. However, by setting up the auto-start task, you can ensure that the settings are reapplied each time the computer boots.
 
 ## 注意事项 (Notes)
 - 请确保操作系统和驱动程序版本支持此工具的设置更改。
