@@ -15,7 +15,7 @@ namespace BatteryChargeControlUI
             Custom = 4
         }
 
-        private const string ConfigFilePath = "user_settings.json";
+        private static readonly string ConfigFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "user_settings.json");
 
         public PowerLimit()
         {
