@@ -42,7 +42,7 @@ If you want PowerLimit to start automatically every time the computer boots and 
 This way, PowerLimit will automatically run every time your computer starts, ensuring that the charging threshold remains active without taking up screen space.
 
 ## Settings Expiration Note
-PowerLimit settings will expire only when the computer is powered off or rebooted. However, by setting up the auto-start task, you can ensure that the settings are reapplied each time the computer boots.
+PowerLimit settings will expire only when the computer is powered off and rebooted. However, by setting up the auto-start task, you can ensure that the settings are reapplied each time the computer boots.
 
 ## Notes
 - Ensure that your OS and drivers support the settings change.
