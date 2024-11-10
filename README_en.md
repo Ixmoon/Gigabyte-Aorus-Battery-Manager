@@ -3,6 +3,9 @@
 ## Introduction
 PowerLimit is a lightweight tool designed to help users customize their laptop charging threshold, getting rid of the Gigabyte Control Center's control over charging settings. With this tool, users can manually set the charging limit to protect battery health.
 
+## Special Thanks
+[The alfc project by s-h-a-d-o-w](https://github.com/s-h-a-d-o-w/alfc) for its support and assistance.
+
 ## System Requirements
 - **Operating System (OS)**: Windows
 
