@@ -1,5 +1,9 @@
 # PowerLimit 充电阈值控制程序 / PowerLimit Charging Threshold Control Program
 
+## 选择语言 / Choose Language
+- [English Version](./README_en.md)
+- [中文版本](./README_zh.md)
+
 ## 简介 (Introduction)
 PowerLimit 是一个轻量级工具，旨在帮助用户自定义笔记本的充电阈值，避免技嘉控制中心对充电设置的控制。通过此工具，用户可以手动设置充电限制，从而保护电池寿命。
 
