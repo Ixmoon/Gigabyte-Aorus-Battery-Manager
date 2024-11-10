@@ -11,7 +11,7 @@ PowerLimit is a lightweight tool designed to help users customize their laptop c
 
 ## 特别感谢(Special Thanks)
 [s-h-a-d-o-w 的 alfc 项目](https://github.com/s-h-a-d-o-w/alfc) 提供的支持与帮助。  
-[The alfc project by s-h-a-d-o-w](https://github.com/s-h-a-d-o-w/alfc) for their support and assistance.
+[The alfc project by s-h-a-d-o-w](https://github.com/s-h-a-d-o-w/alfc) for his support and assistance.
 
 ## 系统要求 (System Requirements)
 - **操作系统 (OS)**: Windows
