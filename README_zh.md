@@ -30,6 +30,8 @@ PowerLimit 是一个轻量级工具，旨在帮助用户自定义笔记本的充
 4. 完成后，重启计算机。
 
 ### 启动 PowerLimit 程序
+![image](https://github.com/user-attachments/assets/a29a3656-5fd0-4074-b6e3-dbe95cda7c0f)
+
 打开 PowerLimit 程序后，界面将显示当前的充电策略和阈值。
 
 ### 设置充电阈值
