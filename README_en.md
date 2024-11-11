@@ -1,10 +1,22 @@
 # PowerLimit Charging Threshold Control Program
 
+## Choose Language
+- [English Version](./README_en.md)
+- [中文版本](./README_zh.md)
+
 ## Introduction
 PowerLimit is a lightweight tool designed to help users customize their laptop charging threshold, getting rid of the Gigabyte Control Center's control over charging settings. With this tool, users can manually set the charging limit to protect battery health.
 
 ## Special Thanks
 [The alfc project by s-h-a-d-o-w](https://github.com/s-h-a-d-o-w/alfc) for its support and assistance.
+
+## Compatibility
+
+| Model        | System        | 
+|--------------|---------------|
+| Aorus 15P XD | Windows 10/11 |
+
+As far as I know, the Control Center can no longer be opened in the Windows 11 24H2 version. That's why I developed this tool. However, there may be some issues with this tool on other versions of the system as well. Please submit a PR or issue if you can confirm something that's not yet in the table. I have also provided a command-line version in the code for reference. If there are compatibility issues on other models or systems, please feel free to submit a PR.
 
 ## System Requirements
 - **Operating System (OS)**: Windows
@@ -42,7 +54,7 @@ If you want PowerLimit to start automatically every time the computer boots and 
 This way, PowerLimit will automatically run every time your computer starts, ensuring that the charging threshold remains active without taking up screen space.
 
 ## Settings Expiration Note
-PowerLimit settings will expire only when the computer is powered off and rebooted. However, by setting up the auto-start task, you can ensure that the settings are reapplied each time the computer boots.
+- PowerLimit settings will expire only when the computer is powered off and rebooted. However, by setting up the auto-start task, you can ensure that the settings are reapplied each time the computer boots.
 
 ## Notes
 - Ensure that your OS and drivers support the settings change.
