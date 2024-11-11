@@ -43,6 +43,9 @@ As far as I know, the Control Center can no longer be opened in the Windows 11 2
 4. Reboot your computer after completing these steps.
 
 ### 启动 PowerLimit 程序 (Launch the PowerLimit Program)
+![image](https://github.com/user-attachments/assets/a29a3656-5fd0-4074-b6e3-dbe95cda7c0f)
+![image](https://github.com/user-attachments/assets/fba3e0c1-9fc9-47f2-b4a7-fbb106da6dde)
+
 打开 PowerLimit 程序后，界面将显示当前的充电策略和阈值。
 
 **Open the PowerLimit program**, and the interface will display the current charging policy and threshold.
