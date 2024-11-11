@@ -13,6 +13,16 @@ PowerLimit is a lightweight tool designed to help users customize their laptop c
 [s-h-a-d-o-w 的 alfc 项目](https://github.com/s-h-a-d-o-w/alfc) 提供的支持与帮助。  
 [The alfc project by s-h-a-d-o-w](https://github.com/s-h-a-d-o-w/alfc) for its support and assistance.
 
+## 兼容性 (Compatibility)
+
+| 型号 (Model) | 系统 (System)        | 
+|--------------|----------------------|
+| Aorus 15P XD | Windows 10/11        | 
+
+据我所知，在 Windows 11 24H2 版本中，控制中心已经无法打开，我也因此开发了这个工具。在其他版本的系统中，这个工具可能也会存在一些问题。如果您能确认表中尚未列出的内容，请提交 PR 或 issue。
+
+As far as I know, the Control Center can no longer be opened in the Windows 11 24H2 version. That's why I developed this tool. However, there may be some issues with this tool on other versions of the system as well. Please submit a PR or issue if you can confirm something that's not yet in the table.
+
 ## 系统要求 (System Requirements)
 - **操作系统 (OS)**: Windows
 
