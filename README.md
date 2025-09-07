@@ -1,5 +1,30 @@
 # PowerLimit 充电阈值控制程序 / PowerLimit Charging Threshold Control Program
 
+
+> [!IMPORTANT]
+> **Project Has Moved!**
+> 
+> This project is no longer actively maintained. It has been succeeded by a new, completely rewritten version with superior performance, enhanced features, and ongoing support.
+> 
+> **All users are strongly encouraged to migrate to the new project:**
+> 
+> ### **[Gigabyte-Fan-Battery-Center](https://github.com/Ixmoon/Gigabyte-Fan-Battery-Center)**
+> 
+> Thank you for your support!
+
+---
+
+> [!IMPORTANT]
+> **项目已迁移！**
+> 
+> 本项目已不再进行积极维护。一个全新的、完全重写的版本已经取代了它，拥有更卓越的性能、更丰富的功能和持续的支持。
+> 
+> **强烈建议所有用户迁移到新项目：**
+> 
+> ### **[技嘉风扇与电池控制中心 (Gigabyte-Fan-Battery-Center)](https://github.com/Ixmoon/Gigabyte-Fan-Battery-Center)**
+> 
+> 感谢您的支持！
+
 ## 选择语言 / Choose Language
 - [English Version](./README_en.md)
 - [中文版本](./README_zh.md)
