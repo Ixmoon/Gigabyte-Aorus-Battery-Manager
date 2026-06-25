@@ -2,28 +2,20 @@
 
 
 > [!IMPORTANT]
-> **Project Has Moved!**
+> **No Longer Maintained**
 > 
-> This project is no longer actively maintained. It has been succeeded by a new, completely rewritten version with superior performance, enhanced features, and ongoing support.
+> I have replaced my Gigabyte laptop and no longer have the hardware to test or develop this project. As a result, neither this project nor its successor will be maintained or updated any further.
 > 
-> **All users are strongly encouraged to migrate to the new project:**
-> 
-> ### **[Gigabyte-Fan-Battery-Center](https://github.com/Ixmoon/Gigabyte-Fan-Battery-Center)**
-> 
-> Thank you for your support!
+> A more complete, fully rewritten version was previously released as **[Gigabyte-Fan-Battery-Center](https://github.com/Ixmoon/Gigabyte-Fan-Battery-Center)** (which is now also unmaintained). The source of both projects remains available as-is — feel free to fork and continue development. Thank you for your support!
 
 ---
 
 > [!IMPORTANT]
-> **项目已迁移！**
+> **项目已停止维护**
 > 
-> 本项目已不再进行积极维护。一个全新的、完全重写的版本已经取代了它，拥有更卓越的性能、更丰富的功能和持续的支持。
+> 我已更换了技嘉笔记本，不再拥有可用于测试和开发的硬件。因此，本项目及其后续项目均将不再进行维护和更新。
 > 
-> **强烈建议所有用户迁移到新项目：**
-> 
-> ### **[技嘉风扇与电池控制中心 (Gigabyte-Fan-Battery-Center)](https://github.com/Ixmoon/Gigabyte-Fan-Battery-Center)**
-> 
-> 感谢您的支持！
+> 此前曾发布过一个完全重写、功能更完整的版本 **[技嘉风扇与电池控制中心 (Gigabyte-Fan-Battery-Center)](https://github.com/Ixmoon/Gigabyte-Fan-Battery-Center)**（该项目目前同样已停止维护）。两个项目的代码均以现状（as-is）保留，欢迎自行 fork 并继续开发。感谢一直以来的支持！
 
 ## 选择语言 / Choose Language
 - [English Version](./README_en.md)
