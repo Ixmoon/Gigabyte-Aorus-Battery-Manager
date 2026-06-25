@@ -1,5 +1,12 @@
 # PowerLimit Charging Threshold Control Program
 
+> [!IMPORTANT]
+> **No Longer Maintained**
+> 
+> I have replaced my Gigabyte laptop and no longer have the hardware to test or develop this project. As a result, neither this project nor its successor will be maintained or updated any further.
+> 
+> A more complete, fully rewritten version was previously released as **[Gigabyte-Fan-Battery-Center](https://github.com/Ixmoon/Gigabyte-Fan-Battery-Center)** (which is now also unmaintained). The source of both projects remains available as-is — feel free to fork and continue development. Thank you for your support!
+
 ## Choose Language
 - [English Version](./README_en.md)
 - [中文版本](./README_zh.md)
