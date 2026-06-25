@@ -1,5 +1,12 @@
 # PowerLimit 充电阈值控制程序
 
+> [!IMPORTANT]
+> **项目已停止维护**
+> 
+> 我已更换了技嘉笔记本，不再拥有可用于测试和开发的硬件。因此，本项目及其后续项目均将不再进行维护和更新。
+> 
+> 此前曾发布过一个完全重写、功能更完整的版本 **[技嘉风扇与电池控制中心 (Gigabyte-Fan-Battery-Center)](https://github.com/Ixmoon/Gigabyte-Fan-Battery-Center)**（该项目目前同样已停止维护）。两个项目的代码均以现状（as-is）保留，欢迎自行 fork 并继续开发。感谢一直以来的支持！
+
 ## 选择语言
 - [English Version](./README_en.md)
 - [中文版本](./README_zh.md)
